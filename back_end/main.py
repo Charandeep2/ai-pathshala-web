@@ -11,8 +11,8 @@ import ollama
 # ==========================================
 # ⚙️ CONFIGURATION
 # ==========================================
-APPWRITE_PROJECT_ID = "69cda978001070a4493b"
-APPWRITE_BUCKET_ID = "69cdaa6f002c333f4450"
+APPWRITE_PROJECT_ID = "add your appwrite project id"
+APPWRITE_BUCKET_ID = "add appwrite project id"
 
 app = FastAPI(title="AI Classroom Neural Engine")
 
